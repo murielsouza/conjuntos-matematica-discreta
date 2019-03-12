@@ -12,3 +12,4 @@ for elementoDeB in conjuntoB:
 
 print('A - B: ', conjuntoDiferencaAB)
 print('B - A: ', conjuntoDiferencaBA)
+print('B - A: ', conjuntoDiferencaBA)
